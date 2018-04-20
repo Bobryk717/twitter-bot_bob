@@ -24,6 +24,15 @@ this application tweets a random name from the [yorubaname](http://www.yorubanam
 to run the code run the following commands in your terminal:
 * after you download the code, run `node app.js` in your terminal
 
+## customize bot instance
+### script mode
+Yorubaname bot runs in script mode by default. This means it will run once and exit, like any normal script.
+
+### bot mode
+In bot mode, Yorubaname bot will run the tweet script once per specified duration.
+To specify bot duration, set environment variable `TWEETER_CRON_DURATION_HRS`.
+If no duration is specified, the app will run in script mode.
+
 ## contribution
 it's a twitter bot, you can try to implement it too.
 
