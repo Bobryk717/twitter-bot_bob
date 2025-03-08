@@ -38,3 +38,6 @@ it's a twitter bot, you can try to implement it too.
 
 ## licensing
 this code follows the [mit license](https://github.com/angular/angular.js/blob/master/LICENSE)
+
+
+<!-- Hello, I am Bobryk. -->
